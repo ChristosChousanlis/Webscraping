@@ -6,11 +6,11 @@
 
 #### Attributes scraped:
 
-    - Book titles
-    - Publisher
-    - Prices(old & new after discount)
-    - Links of books
-    - Category
-    - ISBN
-    - Pages count
-    - Binding of books
+- Book title
+- Author
+- Prices(old & new after discount)
+- Link of book
+- Category
+- ISBN
+- Pages count
+- Binding of book
