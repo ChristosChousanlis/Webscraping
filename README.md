@@ -15,4 +15,4 @@
 - Pages count
 - Binding of book
 
-Collaborators: [Christos Efthymiou](https://github.com/ChristosChousanlis/Webscraping/commits?author=christosefthymiou)
+Collaborators: [Christos Efthymiou](https://github.com/christosefthymiou)
